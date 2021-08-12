@@ -1,7 +1,7 @@
 # WordHero-solver
 This is a CPP version of the solver implemented using the Trie DataStructure and a Depth First Search Recursive Algorithm to find all the letter from a given letter in the grid.
 
-## This game is played on real-time on 
+## This game is played on real-time by players from all around the word, you can download it from here:
 
 https://play.google.com/store/apps/details?id=com.rhs.wordhero
 
